@@ -1,16 +1,5 @@
 # expense_tracker
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Page | Add Expanse Overlay | Invalid Input Error |
+| - | - | - |
+| ![Home Page](/assets/ss/home_page.png) | ![Add Expanse Overlay](/assets/ss/add_expense_modal.png) | ![Invalid Input Error](/assets/ss/invalid_input_modal.png) |
